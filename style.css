@@ -44,7 +44,7 @@ ul li{
     left: 50%;
     border-bottom-color: transparent !important;
     border-left-color: transparent !important;
-    box-shadow: 7px 15px 10px white;
+    box-shadow: 9px 6px 12px white;
     animation: shadow 5s infinite alternate;
     transform: translate(-50%, -50%);
 }
